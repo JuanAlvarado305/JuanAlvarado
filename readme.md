@@ -1,4 +1,4 @@
-# 🏄‍♂️ Juan Alvarado
+# 💽 Juan Alvarado
 
 **`Digital Sculptor (Software Developer/AI Enthusiast)`**
 
