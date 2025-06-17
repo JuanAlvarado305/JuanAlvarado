@@ -2,7 +2,14 @@
 
 **`Digital Sculptor (Software Developer/AI Enthusiast)`**
 
-Hiya, name is Juan Alvarado, and I am a proud first generation college student pursuing Computer Science at Florida International University. As the first in my family to attend college, I've discovered my true passion in programming and AI. My academic journey so far has been focused on object oriented programming, web development, and AI applications like OpenAI's Whisper. 
+Hiya, name is Juan Alvarado, and I am a proud first generation college student pursuing Computer Science at Florida International University. As the first in my family to attend college, I've discovered my true passion in programming and AI. My academic journey so far has been focused on object oriented programming, web development, and AI applications like OpenAI's Whisper. Currently on dat leetcode grind and learning about AI Agents
+
+## I'm a Student, Father, Developer, and Teacher!!
+
+- 🌱 I’m currently learning absolutely everything 🤣
+- 👯 I’m looking for internships to grow my knowledge and experience 
+- 🥅 2025 Goals: Learn more, ship more and build more!!
+- ⚡ Fun fact: I love to do community service / big time history buff (anicent history especially)
 
 
 
