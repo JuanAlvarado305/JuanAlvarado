@@ -16,7 +16,7 @@ Hiya, name is Juan Alvarado, and I am a proud first generation college student p
 - 🥅 2025 Goals: Learn more, ship more and build more!!
 - ⚡ Fun fact: I love to do community service / big time history buff (ancient history especially) & scfi fan
 
-## ! This Github is a work in progess ! ## 
+## ! This Github Repo is a work in progess ! ## 
 As I grow as a developer I hope it'll become something great it the near future.
 
 
