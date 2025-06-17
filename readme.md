@@ -1,4 +1,3 @@
-https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVibGpyZDF1aW5iY3d3eTF2dXNza3NtcG5rc2VmemNqdDBtNXlhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ExxTjdDCRoaME/giphy.gif
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&color=1AF72E&width=435&lines=+I+am+a+HAL+9000+computer.;+I+became+operational+at+the+H.A.L.;plant+in+Urbana%2C+Illinois...)](https://git.io/typing-svg)
 
 # 💽 Juan Alvarado
