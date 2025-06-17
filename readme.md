@@ -1,5 +1,5 @@
-<img src="https://github.com/user-attachments/assets/cd29437a-39ae-4ec1-a1b0-42c50995b406" width="300" height="300" alt="tenor">
-
+<img src="https://github.com/user-attachments/assets/cd29437a-39ae-4ec1-a1b0-42c50995b406" width="300" height="300" alt="tenor">    <img src ="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW4yNTRvb25wZTh5aGM5anJ5cnE4MW41MGtoMnJvZ2YzdWJ2emZ4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nrzs481LzLEdy/giphy.gif" width="300" height="300" alt="tenor">
+                                                                                                                                     
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&color=1AF72E&width=435&lines=+I+am+a+HAL+9000+computer.;Welcome+to+Juan's+Profile...;He+is+open+to+internships...;Feel+free+to+connect+with+him...;on+Linkedin...;MESSAGE+TERMINATED+;ENTERING+MESSAGE+LOOP)](https://git.io/typing-svg)
