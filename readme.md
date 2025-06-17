@@ -14,7 +14,7 @@ Hiya, name is Juan Alvarado, and I am a proud first generation college student p
 - 🌱 I’m currently learning absolutely everything 🤣
 - 👯 I’m looking for internships to grow my knowledge and experience 
 - 🥅 2025 Goals: Learn more, ship more and build more!!
-- ⚡ Fun fact: I love to do community service / big time history buff (ancient history especially) & scfi fan
+- ⚡ Fun fact: I love to do community service / big time history buff (ancient history especially) scfi fan / Love Chinese Food 🥘
 
 ## 🏗️ ! This Github Repo is a work in progess ! 👷🏼🚧  ## 
 As I grow as a developer I hope it'll become something great in the near future. So stay tuned! ⏲️
