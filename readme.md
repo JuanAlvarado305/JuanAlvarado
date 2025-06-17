@@ -1,4 +1,4 @@
-![tenor](https://github.com/user-attachments/assets/cd29437a-39ae-4ec1-a1b0-42c50995b406)
+<img src="https://github.com/user-attachments/assets/cd29437a-39ae-4ec1-a1b0-42c50995b406" width="300" height="200" alt="tenor">
 
 
 
