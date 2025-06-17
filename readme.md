@@ -33,7 +33,8 @@ Hiya, name is Juan Alvarado, and I am a proud first generation college student p
 
 ### 📊 Stats
 
-[![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanalvarado305)](https://github.com/anuraghazra/github-readme-stats)
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=hide_rank)
+
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
