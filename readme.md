@@ -13,9 +13,9 @@ Hiya, name is Juan Alvarado, and I am a proud first generation college student p
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg#gh-light-mode-only)](https://linkedin.com/in/juan-alvarado305)
-[![website](./img/linkedin-dark.svg#gh-dark-mode-only)](https://linkedin.com/in/juan-alvarado305)
 &nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 
 
