@@ -13,8 +13,8 @@ Hiya, name is Juan Alvarado, and I am a proud first generation college student p
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/juan-alvarado3055#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/juan-alvarado305#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg#gh-light-mode-only)](https://linkedin.com/in/juan-alvarado305)
+[![website](./img/linkedin-dark.svg#gh-dark-mode-only)](https://linkedin.com/in/juan-alvarado305)
 &nbsp;&nbsp;
 
 
