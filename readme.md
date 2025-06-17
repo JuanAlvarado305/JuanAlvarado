@@ -13,7 +13,6 @@ Hiya, name is Juan Alvarado, and I am a proud first generation college student p
 - 🥅 2025 Goals: Learn more, ship more and build more!!
 - ⚡ Fun fact: I love to do community service / big time history buff (ancient history especially) / 80's music lover
 
-### Connect with me:
 
 
 
