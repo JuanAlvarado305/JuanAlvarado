@@ -3,7 +3,6 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&color=1AF72E&width=435&lines=+I+am+a+HAL+9000+computer.;+I+became+operational+at+the+H.A.L.;plant+in+Urbana%2C+Illinois...;Welcome+to+Juan's+Profile...;Enjoy+your+stay...)](https://git.io/typing-svg)
-
 # 💽 Juan Alvarado
 
 **`Digital Sculptor (Software Developer/AI Enthusiast)`**
