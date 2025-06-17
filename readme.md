@@ -11,6 +11,12 @@ Hiya, name is Juan Alvarado, and I am a proud first generation college student p
 - 🥅 2025 Goals: Learn more, ship more and build more!!
 - ⚡ Fun fact: I love to do community service / big time history buff (ancient history especially) / 80's music lover
 
+### Connect with me:
+
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/juanalvarado305#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/juanalvarado305#gh-dark-mode-only)
+&nbsp;&nbsp;
+
 
 
 
