@@ -9,7 +9,7 @@
 
 Hiya, name is Juan Alvarado, and I am a proud first generation college student pursuing Computer Science at [Florida International University](https://www.fiu.edu/). I've discovered my true passion in programming and AI. My academic journey so far has been focused on object oriented programming, web development, and AI applications like OpenAI's Whisper. Although, it's not my major, I also have an interest in embedded systems.
 
-##! This Github is a work in progess !## As I grow as a developer I hope it'll become something great it the near future. 
+## ! This Github is a work in progess ! ## As I grow as a developer I hope it'll become something great it the near future. 
 
 ## I'm a Student, Developer, and AI Enthusiast !!
 
