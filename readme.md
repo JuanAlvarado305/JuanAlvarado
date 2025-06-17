@@ -12,7 +12,7 @@ Hiya, name is Juan Alvarado, and I am a proud first generation college student p
 ## I'm a Student, Developer, and AI Enthusiast !!
 
 - 🌱 I’m currently learning absolutely everything 🤣
-- 👯 I’m looking for internships to grow my knowledge and experience <------ Hire me lol 
+- 👯 I’m looking for internships to grow my knowledge and experience 
 - 🥅 2025 Goals: Learn more, ship more and build more!!
 - ⚡ Fun fact: I love to do community service / big time history buff (ancient history especially) & scfi fan
 
